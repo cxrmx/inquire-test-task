@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inquire-test-task/static/css/main.7728f356.css",
+    "main.js": "/inquire-test-task/static/js/main.f4f7dd56.js",
+    "index.html": "/inquire-test-task/index.html",
+    "main.7728f356.css.map": "/inquire-test-task/static/css/main.7728f356.css.map",
+    "main.f4f7dd56.js.map": "/inquire-test-task/static/js/main.f4f7dd56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7728f356.css",
+    "static/js/main.f4f7dd56.js"
+  ]
+}

@@ -1,0 +1,48 @@
+.post {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    background-color: rgba(255,255,255,0.7);
+    width: 70%;
+    text-align: center;
+}
+
+.post_id {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.post_title {
+    margin-bottom: 10px;
+}
+
+.post:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.post_btns {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btns_open-btn, .btns_delete-btn, .btns_edit-btn {
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.btns_open-btn {
+    background-color: rgba(124,252,0, 1);
+}
+
+.btns_delete-btn {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.btns_edit-btn {
+    background-color: rgba(255,140,0, .8);
+}

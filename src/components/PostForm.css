@@ -1,0 +1,24 @@
+.post-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    width: 500px;
+}
+
+.post-form__title, .post-form__body {
+    margin-bottom: 10px;
+    padding: 10px 15px;
+}
+
+.post-form__button {
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    transition: background-color .5s;
+}
+
+.post-form__button:hover {
+    background-color: lightgray;
+}

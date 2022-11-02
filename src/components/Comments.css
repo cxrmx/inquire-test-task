@@ -1,0 +1,8 @@
+.comment {
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.comment:last-child {
+    margin-bottom: 25px;
+}
